@@ -1,4 +1,5 @@
 {
-	"BaseAppOrganizationCellColor1": [0, 0, 255],
+	"BaseAppOrganizationCellColor2": [0, 0, 255],
 	"DashboardWelcomeMessage": "Hola, soy un texto que viene de un JSON"
 }
+	
