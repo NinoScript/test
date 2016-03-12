@@ -1,5 +1,5 @@
 {
-	"WhiteLabelConfigurationVersion": 0.1
+	"WhiteLabelConfigurationVersion": 0.1,
 	"BaseAppOrganizationCellColor2": [0, 0, 255],
 	"DashboardWelcomeMessage": "Hola, soy un texto que viene de un JSON",
 	"WhiteLabelLocalizationEnabled": false
